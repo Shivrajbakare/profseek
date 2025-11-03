@@ -1,0 +1,18 @@
+# core
+pandas
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu        # or faiss-gpu if you have GPU support
+streamlit
+transformers>=4.30.0
+datasets
+peft
+accelerate
+torch>=2.0
+tqdm
+
+# optional for serving
+fastapi
+uvicorn
+python-multipart

@@ -1,0 +1,1557 @@
+course_code,prof_name,avg_grade,samples
+AE201A,Debopam Das,8.21,1
+AE201M,Abhishek,7.22,1
+AE209,Sanjay Kumar,6.85,2
+AE211,Arun Kumar Perumal,6.03,1
+AE211A,Navrose,7.0,1
+AE211A,Rakesh Kumar,5.68,1
+AE311A,Arun Kumar Perumal,5.885,2
+AE321,Raghavendra P Kukillaya,7.06,1
+AE321A,Raghavendra P Kukillaya,8.11,1
+AE321A,Subrahmanyam Saderla,7.83,1
+AE322A,Dipak Kumar Giri,7.88,1
+AE322A,Mangal Kothari,7.52,1
+AE322A,Raghavendra P Kukillaya,7.3,1
+AE341A,Ashoke De,6.0,1
+AE341A,D Chaitanya Kumar Rao,7.4399999999999995,2
+AE341A,Rajesh Ranjan,6.79,1
+AE341A,Vaibhav Arghode,6.14,1
+AE351A,Abhijit Kushari,7.97,1
+AE351A,Rajesh Kitey,7.72,1
+AE361A,Abhijit Kushari,9.79,1
+AE371A,Alakesh Chandra Mandal,,1
+AE401A,Rakesh Kumar,,1
+AE401A,Vaibhav Arghode,,1
+AE421A,Subrahmanyam Saderla,7.01,1
+AE441A,Sathesh Mariappan,7.863333333333333,3
+AE451A,Kamal Poddar,7.03,1
+AE451A,Rajesh Kitey,8.11,1
+AE451A,Sathesh Mariappan,7.96,1
+AE461A,Mangal Kothari,6.6,1
+AE461A,Subrahmanyam Saderla,8.075,2
+AE471A,Alakesh Chandra Mandal,8.0,1
+AE481,Debopam Das,6.0,1
+AE481A,Sanjay Mittal,7.89,1
+AE601,Abhijit Kushari,8.37,1
+AE601A,Abhijit Kushari,7.95,1
+AE601A,Debopam Das,7.68,1
+AE601A,Mohammed Ibrahim Sugarno,7.39,1
+AE602,Ashoke De,7.43,1
+AE602,Dipak Kumar Giri,7.69,1
+AE602,Rajesh Ranjan,7.15,1
+AE602A,Alakesh Chandra Mandal,8.1,1
+AE602A,Ashoke De,9.0,1
+AE602A,Dipak Kumar Giri,8.4,1
+AE606,Sanjay Kumar,7.65,1
+AE606A,Sanjay Kumar,7.97,1
+AE608,Mohammed Ibrahim Sugarno,7.77,1
+AE608A,Rakesh Kumar,7.43,1
+AE610,Arnab Samanta,5.63,1
+AE610,Pradeep Moise,6.56,1
+AE610A,Arnab Samanta,6.0,1
+AE610A,Arun Kumar Perumal,6.27,1
+AE611,Arun Kumar Perumal,8.92,1
+AE612,Pradeep Moise,7.56,1
+AE612A,Debopam Das,9.0,1
+AE612A,Mohammed Ibrahim Sugarno,6.32,1
+AE612A,Pradeep Moise,8.53,1
+AE614,Kamal Poddar,7.68,2
+AE614A,Debopam Das,8.5,1
+AE617,Navrose,7.5,1
+AE617A,Navrose,8.11,1
+AE618,Sanjay Mittal,9.35,1
+AE618A,Sanjay Mittal,6.4,1
+AE621,Navrose,7.69,1
+AE621A,Alakesh Chandra Mandal,7.725,2
+AE630A,Mangal Kothari,8.5,1
+AE631,Pradeep Moise,9.58,1
+AE640A,Mangal Kothari,6.67,1
+AE641A,Ashish Tewari,4.57,2
+AE642,Dipak Kumar Giri,8.39,1
+AE643,Sanjay Mittal,7.475,2
+AE647,Raghavendra P Kukillaya,8.22,1
+AE647A,Ashish Tewari,7.0,1
+AE648,Ashish Tewari,6.0,1
+AE648,Raghavendra P Kukillaya,8.29,1
+AE648A,Raghavendra P Kukillaya,7.73,1
+AE648A,Subrahmanyam Saderla,8.4,1
+AE649,Dipak Kumar Giri,8.5,1
+AE649A,Dipak Kumar Giri,9.0,1
+AE655A,Mohammed Ibrahim Sugarno,7.24,1
+AE656,Abhishek,9.0,1
+AE659M,Rajesh Kitey,8.91,1
+AE661,Rajesh Ranjan,8.86,1
+AE661A,Rajesh Ranjan,7.67,1
+AE663,Ajay Vikram Singh,4.0,1
+AE663,D Chaitanya Kumar Rao,7.03,1
+AE663A,Abhijit Kushari,7.12,1
+AE663A,D Chaitanya Kumar Rao,8.26,1
+AE663A,Vaibhav Arghode,5.6,1
+AE664,Ajay Vikram Singh,7.18,1
+AE664,Rakesh Kumar,6.97,1
+AE664A,Ajay Vikram Singh,7.113333333333333,3
+AE664A,Rajesh Ranjan,8.0,1
+AE666,Abhijit Kushari,7.6,1
+AE669,Alakesh Chandra Mandal,8.09,1
+AE671,Navrose,8.0,1
+AE671A,Arnab Samanta,8.43,1
+AE674,Arnab Samanta,9.0,1
+AE679M,Abhishek,8.82,1
+AE686,Abhishek,9.12,1
+AE687,Tanmay Dutt Mathur,7.61,1
+AE687A,Pritam Chakraborty,8.08,1
+AE688,Tanmay Dutt Mathur,7.93,2
+AE688A,Tanmay Dutt Mathur,8.67,1
+AE691A,Mangal Kothari,7.33,1
+AE695A,Sathesh Mariappan,8.0,1
+AE696A,Debopam Das,8.6,1
+AE698,Kamal Poddar,8.0,1
+AE698A,Kamal Poddar,8.31,1
+AE702,Pritam Chakraborty,7.3,1
+AE702A,Pritam Chakraborty,8.0,1
+AE703,Arnab Samanta,7.83,1
+AE703,Ashoke De,7.36,1
+AE703A,Ashoke De,9.0,1
+AE704A,Rajesh Kitey,9.0,1
+AE707,Rajesh Kitey,7.8,1
+AE711A,Mangal Kothari,9.0,1
+AE712A,Arun Kumar Perumal,6.88,1
+AE720A,Mohammed Ibrahim Sugarno,8.88,1
+AE747,Rakesh Kumar,7.35,1
+AE747A,Sanjay Kumar,8.62,1
+AE755A,Ajay Vikram Singh,10.0,1
+AE777A,Ashish Tewari,5.335,2
+AE799,Pritam Chakraborty,,1
+AE899,Pritam Chakraborty,,1
+ART103,Shatarupa Thakurta Roy,7.87,1
+ART402,Ritwij Bhowmik,8.34,1
+ART406,Rajarshi Sengupta,7.65,1
+ART406A,Shatarupa Thakurta Roy,8.235,2
+ART704,Rajarshi Sengupta,10.0,1
+ART706,Rajarshi Sengupta,10.0,1
+ART707,Ritwij Bhowmik,7.98,1
+ART707A,Ritwij Bhowmik,8.25,1
+ART708,Shatarupa Thakurta Roy,10.0,1
+ART709,Shatarupa Thakurta Roy,10.0,1
+ART711,Ritwij Bhowmik,9.82,1
+BSE211,Sai Prasad Pydi,7.77,2
+BSE211A,Sai Prasad Pydi,8.05,1
+BSE221,Anusmita Sahoo,6.08,2
+BSE221A,Dibyendu Kumar Das,6.62,1
+BSE222,Ashok Kumar,7.45,1
+BSE223,Jayandharan Giridhara Rao,8.24,1
+BSE223A,Jayandharan Giridhara Rao,8.76,1
+BSE311,Amitabha Bandyopadhyay,6.5,1
+BSE311,Robert Sonowal,7.4,1
+BSE311A,Amitabha Bandyopadhyay,5.316666666666666,3
+BSE312,Dibyendu Kumar Das,8.98,1
+BSE312A,Bushra Ateeq,6.63,2
+BSE312A,Suresh Kumar,8.81,1
+BSE322,Nitin Gupta,6.81,1
+BSE322A,Nitin Gupta,7.15,1
+BSE411A,Dhirendra S. Katti,7.2,1
+BSE412,Ashok Kumar,8.77,1
+BSE412A,Ashok Kumar,8.33,1
+BSE412A,Dhirendra S. Katti,7.56,1
+BSE601,Nitin Mohan,,1
+BSE602A,Dibyendu Kumar Das,,1
+BSE611,Nitin Mohan,7.375,2
+BSE611A,Nitin Mohan,5.62,1
+BSE612,Ashok Kumar,9.5,1
+BSE616,Ashwani Kumar Thakur,7.24,1
+BSE616A,Ashwani Kumar Thakur,7.87,2
+BSE642,Saravanan Matheshwaran,8.74,2
+BSE642A,Saravanan Matheshwaran,8.51,2
+BSE644,Nitin Mohan,7.18,1
+BSE651,Jayandharan Giridhara Rao,8.285,2
+BSE651A,Jayandharan Giridhara Rao,9.1,2
+BSE652,Jonaki Sen,8.8,1
+BSE652A,Jonaki Sen,7.0,1
+BSE653,Bushra Ateeq,9.25,1
+BSE653A,Bushra Ateeq,7.145,2
+BSE655,Jonaki Sen,7.93,2
+BSE655A,Jonaki Sen,4.0,1
+BSE656,Nitin Gupta,9.025,2
+BSE656A,Nitin Gupta,7.4,1
+BSE658,Arjun Ramakrishnan,9.01,2
+BSE658A,Arjun Ramakrishnan,8.8,1
+BSE659,Dibyendu Kumar Das,6.5,1
+BSE661,Appu Kumar Singh,8.915,2
+BSE661A,Appu Kumar Singh,8.386666666666667,3
+BSE662,Arjun Ramakrishnan,8.56,1
+BSE662A,Arjun Ramakrishnan,8.33,1
+BSE667,Amitabha Bandyopadhyay,9.56,1
+BSE672,Suresh Kumar,9.71,1
+BSE698X,Nikunj Arunkumar Bhagat,8.82,1
+BSE798A,Amitabha Bandyopadhyay,9.45,1
+CE212,Anubha Goel,7.54,1
+CE212,Tarun Gupta,6.62,1
+CE214,Abhas Singh,6.22,1
+CE242A,Arghya Das,4.75,1
+CE242A,Sudhir Mishra,5.2,2
+CE243,Syam Nair,5.77,1
+CE252,Gaurav Tiwari,6.41,1
+CE262A,Gourabananda Pahar,6.25,1
+CE272,Chinmoy Kolay,6.52,1
+CE311A,Mukesh Sharma,5.43,1
+CE311A,Tarun Gupta,7.0,1
+CE311P,Purnendu Bose,8.85,1
+CE331,Salil Goel,7.16,1
+CE331A,Bharat Lohani,6.43,1
+CE331A,Salil Goel,6.69,1
+CE331P,Salil Goel,8.0,1
+CE332A,Onkar Dikshit,7.14,1
+CE341,Abhas Singh,,1
+CE341,Arghya Das,,1
+CE341A,Prishati Raychowdhury,,2
+CE341A,Shivam Tripathi,,1
+CE351,Arghya Das,6.31,1
+CE351A,Gaurav Tiwari,7.5,1
+CE351A,Jagdish Prasad Sahoo,7.17,2
+CE351A,Priyanka Ghosh,6.71,1
+CE351T,Jagdish Prasad Sahoo,0.0,1
+CE352A,Bipin Kumar Gupta,5.140000000000001,2
+CE352A,Priyanka Ghosh,5.51,1
+CE352A,Rajesh Sathiyamoorthy,5.44,1
+CE352P,Bipin Kumar Gupta,8.0,1
+CE361,Tushar Apurv,7.2,1
+CE361A,Saumyen Guha,7.08,1
+CE361A,Tushar Apurv,6.81,1
+CE371,Suparno Mukhopadhyay,6.27,1
+CE371A,Amar Nath Roy Chowdhury,5.0,1
+CE371A,Sudib Kumar Mishra,5.06,1
+CE372A,Suparno Mukhopadhyay,6.63,1
+CE372A,Vinay Kumar Gupta,3.92,1
+CE381,Venkatesan Kanagaraj,5.76,1
+CE382A,Pranamesh Chakraborty,5.11,1
+CE382A,Venkatesan Kanagaraj,7.66,1
+CE412A,Mukesh Sharma,6.15,1
+CE412A,Purnendu Bose,6.53,1
+CE412A,Vinod Tare,6.77,1
+CE441B,Chirag Kothari,7.56,1
+CE451,Gaurav Tiwari,7.15,1
+CE451A,Bipin Kumar Gupta,8.254999999999999,2
+CE462A,Saumyen Guha,7.32,2
+CE471A,Chinmoy Kolay,8.83,1
+CE481,Syam Nair,7.51,1
+CE481A,Venkatesan Kanagaraj,6.65,1
+CE491A,Arghya Das,9.5,1
+CE603,Amar Nath Roy Chowdhury,8.52,1
+CE603,Hemant Gehlot,7.69,1
+CE603A,Hemant Gehlot,8.0,1
+CE603A,Venkatesan Kanagaraj,7.65,1
+CE604,Samit Ray Chaudhuri,8.05,1
+CE604A,Gourabananda Pahar,7.3,1
+CE604A,Samit Ray Chaudhuri,8.5,1
+CE605,Mukesh Sharma,7.62,1
+CE605A,Shivam Tripathi,6.56,1
+CE606M,Hemant Gehlot,8.33,1
+CE606M,Suparno Mukhopadhyay,7.71,1
+CE610,Richa Ojha,7.31,1
+CE611,Rajesh Srivastava,7.94,1
+CE612A,Rajesh Srivastava,9.6,1
+CE613A,Rajesh Srivastava,9.33,1
+CE614,Tushar Apurv,7.09,1
+CE616A,Rajesh Srivastava,7.696666666666666,3
+CE617A,Saumyen Guha,8.5,1
+CE618,Richa Ojha,9.5,1
+CE618A,Richa Ojha,9.33,1
+CE620,Sudib Kumar Mishra,8.3,1
+CE620,Vinay Kumar Gupta,6.56,1
+CE620A,Samit Ray Chaudhuri,8.58,1
+CE620A,Vinay Kumar Gupta,7.0,1
+CE621,Vinay Kumar Gupta,7.53,1
+CE621A,Amar Nath Roy Chowdhury,8.11,1
+CE622,Amar Nath Roy Chowdhury,8.7,1
+CE622A,Amar Nath Roy Chowdhury,7.11,1
+CE622A,Sudib Kumar Mishra,7.69,1
+CE623,Samit Ray Chaudhuri,9.58,1
+CE623A,Chinmoy Kolay,7.8,1
+CE624A,Chinmoy Kolay,10.0,1
+CE629A,Chinmoy Kolay,8.29,1
+CE629A,Samit Ray Chaudhuri,8.93,1
+CE630,Gaurav Tiwari,10.0,1
+CE630A,Gaurav Tiwari,7.28,1
+CE631,Bipin Kumar Gupta,6.86,1
+CE631,Rajesh Sathiyamoorthy,7.58,1
+CE632,Priyanka Ghosh,8.0,1
+CE632A,Nihar Ranjan Patra,8.14,1
+CE633,Jagdish Prasad Sahoo,8.22,1
+CE634,Nihar Ranjan Patra,8.3,1
+CE634A,Rajesh Sathiyamoorthy,7.33,1
+CE635,Jagdish Prasad Sahoo,9.0,1
+CE635A,Priyanka Ghosh,7.82,1
+CE636A,Prishati Raychowdhury,7.470000000000001,2
+CE637,Arghya Das,7.33,1
+CE637A,Jagdish Prasad Sahoo,8.24,1
+CE638,Nihar Ranjan Patra,8.305,2
+CE638P,Nihar Ranjan Patra,8.38,1
+CE657,Chirag Kothari,6.13,2
+CE664A,Abhas Singh,9.0,1
+CE665,Manoj Kumar Tiwari,8.33,1
+CE665,Purnendu Bose,6.58,1
+CE665A,Purnendu Bose,7.88,1
+CE665A,Vinod Tare,6.885,2
+CE666,Anubha Goel,6.83,1
+CE666A,Mukesh Sharma,6.26,1
+CE667A,Mukesh Sharma,7.46,1
+CE668,Vinod Tare,8.2,1
+CE668A,Vinod Tare,8.0,2
+CE669,Tarun Gupta,6.5,1
+CE670,Balaji Devaraju,7.67,1
+CE671,Bharat Lohani,7.67,1
+CE671A,Bharat Lohani,7.25,1
+CE673,Onkar Dikshit,8.73,1
+CE676,Bharat Lohani,7.18,1
+CE676A,Bharat Lohani,8.6,1
+CE677,Salil Goel,7.88,1
+CE678,B. Nagarajan,5.0,1
+CE678,Balaji Devaraju,6.8,1
+CE678A,B. Nagarajan,8.0,1
+CE683,Partha Chakroborty,6.365,2
+CE683A,Partha Chakroborty,7.52,2
+CE685,Partha Chakroborty,8.0,1
+CE687,Aditya Medury,7.6,1
+CE687A,Aditya Medury,8.015,2
+CE716,Chirag Kothari,8.2,1
+CE722,Partha Narayan Mishra,9.67,1
+CE723,Samit Ray Chaudhuri,9.18,1
+CE723,Sudib Kumar Mishra,7.57,1
+CE723A,Amar Nath Roy Chowdhury,6.38,1
+CE725,Suparno Mukhopadhyay,9.14,1
+CE725A,Suparno Mukhopadhyay,6.46,1
+CE731A,Prishati Raychowdhury,7.28,1
+CE732,Partha Narayan Mishra,8.71,1
+CE732,Rajesh Sathiyamoorthy,8.5,1
+CE732A,Partha Narayan Mishra,9.335,2
+CE734A,Priyanka Ghosh,8.42,1
+CE736,Gourabananda Pahar,8.33,1
+CE737A,Richa Ojha,9.33,1
+CE738,Shivam Tripathi,9.31,1
+CE738A,Shivam Tripathi,9.46,1
+CE763,Manoj Kumar Tiwari,9.08,1
+CE763A,Purnendu Bose,8.4,1
+CE763A,Tarun Gupta,9.0,1
+CE764A,Tarun Gupta,8.17,1
+CE766,Anubha Goel,8.61,1
+CE767,Abhas Singh,7.0,1
+CE768A,Anubha Goel,7.38,1
+CE770,Onkar Dikshit,7.82,1
+CE771,Onkar Dikshit,8.63,1
+CE780,Prabin Kumar Ashish,8.5,1
+CE781,Venkatesan Kanagaraj,8.0,1
+CE784,Pranamesh Chakraborty,7.65,1
+CE784A,Pranamesh Chakraborty,7.69,1
+CE785,Prabin Kumar Ashish,9.0,1
+CE786,Animesh Das,6.18,2
+CE786A,Animesh Das,6.0,1
+CE787,Aditya Medury,7.5,1
+CE787,Pranamesh Chakraborty,7.13,1
+CE787A,Pranamesh Chakraborty,7.5,1
+CE788,Aditya Medury,8.33,1
+CE789,Hemant Gehlot,8.31,1
+CE797,Shivam Tripathi,,1
+CE797,Tushar Apurv,,1
+CE797A,Syam Nair,,1
+CE798,Shivam Tripathi,,1
+CE798,Tushar Apurv,,1
+CE798A,Syam Nair,,1
+CGS401,Devpriya Kumar,7.345000000000001,2
+CGS401A,Devpriya Kumar,7.24,1
+CGS600,Himanshu Yadav,8.3,1
+CGS601,Ark Verma,9.0,1
+CGS610M,Ark Verma,8.18,1
+CGS611M,Devpriya Kumar,8.42,1
+CGS698C,Himanshu Yadav,7.895,2
+CGS698E,Devpriya Kumar,8.75,1
+CGS702,Ark Verma,8.56,1
+CGS801,Ark Verma,,1
+CHE200,Sanjeev Garg,,1
+CHE201,Siddhartha Panda,7.4,1
+CHE211A,Rahul Mangal,6.59,1
+CHE212,Akash Choudhary,7.59,1
+CHE213,Soumik Das,7.42,1
+CHE251,Sri Sivakumar,6.995,2
+CHE251A,Sri Sivakumar,6.91,1
+CHE261,Raghavendra Ragipani,7.61,1
+CHE300A,Himanshu Sharma,,1
+CHE300A,Raghvendra Singh,,1
+CHE311,Viswanathan Shankar,7.61,1
+CHE312A,Anurag Tripathi,6.81,1
+CHE331A,Animangsu Ghatak,4.75,1
+CHE352A,Raghavendra Ragipani,7.08,1
+CHE352A,Raghvendra Singh,8.61,1
+CHE362A,Sri Sivakumar,6.625,2
+CHE381,Ishan Bajaj,7.41,1
+CHE381A,Nitin Kaistha,5.646666666666666,3
+CHE391A,Anurag Tripathi,8.51,2
+CHE454A,Raju Kumar Gupta,7.955,4
+CHE492A,Animangsu Ghatak,7.75,1
+CHE492A,Nishith Verma,7.525,2
+CHE492A,Rahul Mangal,8.05,1
+CHE492A,Soumik Das,8.3,1
+CHE611,Akash Choudhary,7.67,1
+CHE611,Rahul Mangal,7.95,1
+CHE611A,Anurag Tripathi,6.21,1
+CHE616,Anurag Tripathi,8.0,1
+CHE616A,Anurag Tripathi,9.25,1
+CHE619,Naveen Tiwari,4.7,1
+CHE621,Animangsu Ghatak,8.23,1
+CHE621,Indranil Saha Dalal,8.0,1
+CHE621A,Indranil Saha Dalal,7.2,2
+CHE626,Vishal Agarwal,8.6,1
+CHE631,Goutam Deo,8.29,1
+CHE631,Vishal Agarwal,8.05,2
+CHE631A,Goutam Deo,7.05,1
+CHE631A,Nishith Verma,7.9,1
+CHE631A,Vishal Agarwal,6.11,1
+CHE632,Raghavendra Ragipani,9.0,1
+CHE632A,Raghavendra Ragipani,6.2,1
+CHE633,Goutam Deo,9.5,1
+CHE633A,Goutam Deo,6.93,1
+CHE636A,Himanshu Sharma,8.33,1
+CHE641,Sanjeev Garg,6.78,1
+CHE641,Viswanathan Shankar,7.63,1
+CHE641A,Viswanathan Shankar,7.48,1
+CHE642,Sanjeev Garg,7.25,1
+CHE642A,Nishith Verma,7.493333333333333,3
+CHE642A,Sanjeev Garg,7.5,1
+CHE643,Indranil Saha Dalal,9.6,1
+CHE652,Ishan Bajaj,7.63,1
+CHE652A,Sanjeev Garg,7.5,1
+CHE659,Siddhartha Panda,7.975,2
+CHE659A,Siddhartha Panda,6.63,1
+CHE664A,Naveen Tiwari,6.83,1
+CHE665A,Vishal Agarwal,8.9,1
+CHE667,Viswanathan Shankar,7.65,1
+CHE667A,Viswanathan Shankar,7.79,1
+CHE677A,Rahul Mangal,10.0,1
+CHE678,Animangsu Ghatak,8.02,1
+CHE678A,Animangsu Ghatak,8.71,1
+CHE679,Indranil Saha Dalal,9.64,1
+CHE679,Raghavendra Ragipani,8.78,1
+CHE684,Raghvendra Singh,8.774999999999999,2
+CHE684A,Raghvendra Singh,9.63,1
+CHE688A,Ashutosh Sharma,7.23,1
+CHE699,Naveen Tiwari,,1
+CHE701A,Himanshu Sharma,,1
+CHE798B,Indranil Saha Dalal,10.0,1
+CHE799,Naveen Tiwari,,1
+CHE801,Goutam Deo,,1
+CHE801,Rahul Mangal,9.68,1
+CHE801,Raju Kumar Gupta,,1
+CHE801A,Nitin Kaistha,,1
+CHE801A,Rahul Mangal,,1
+CHE802A,Nitin Kaistha,,1
+CHE888,Siddhartha Panda,,1
+CHE899,Naveen Tiwari,,1
+CHM101A,Apparao Draksharapu,3.38,1
+CHM102A,Arnab Ghosh,5.61,1
+CHM102A,Nagma Parveen,6.0,1
+CHM111,Apparao Draksharapu,8.68,1
+CHM112M,Arnab Ghosh,7.24,1
+CHM112M,Nagma Parveen,6.62,1
+CHM113M,Basker Sundararaju,4.77,1
+CHM113M,Ritika Gautam,8.08,1
+CHM201,Ramkrishna Sarkar,8.33,1
+CHM201,Srinivas Dharavath,7.54,1
+CHM201A,Srinivas Dharavath,7.3,1
+CHM202,Venkata Suresh Mothika,8.51,1
+CHM202A,Parthasarathi Subramanian,10.0,1
+CHM202A,Ramesh Ramapanicker,4.66,1
+CHM202A,Venkata Suresh Mothika,8.0,1
+CHM241,Anantharaj Sengeni,7.6,1
+CHM241,Raja Angamuthu,8.05,1
+CHM241,Ritika Gautam,9.81,1
+CHM241A,Ritika Gautam,9.62,1
+CHM242,Raja Angamuthu,8.09,1
+CHM242,Sabuj Kumar Kundu,6.28,1
+CHM242A,Raja Angamuthu,8.37,1
+CHM305,Ramesh Ramapanicker,9.64,1
+CHM305A,Anand Singh,9.5,1
+CHM321,Devendra Mani,7.76,1
+CHM321A,Nagma Parveen,7.3,1
+CHM322,Mainak Sadhukhan,8.15,1
+CHM322A,Mainak Sadhukhan,6.04,1
+CHM342,Sankar Prasad Rath,9.24,1
+CHM342A,Sankar Prasad Rath,7.82,1
+CHM344A,Basker Sundararaju,8.85,1
+CHM344A,Sabuj Kumar Kundu,8.04,1
+CHM421A,Nagma Parveen,7.78,1
+CHM423,Manabendra Chandra,9.99,2
+CHM423A,Manabendra Chandra,9.21,2
+CHM423A,Pratik Sen,7.16,1
+CHM443,Apparao Draksharapu,9.02,1
+CHM443A,Apparao Draksharapu,8.055,2
+CHM443A,Basker Sundararaju,9.57,1
+CHM481A,Dharmaraja Allimuthu,7.0,2
+CHM503,Anand Singh,10.0,1
+CHM521,Arnab Ghosh,7.67,1
+CHM600,Arnab Ghosh,6.75,1
+CHM600,Devendra Mani,8.75,1
+CHM600A,Devendra Mani,7.65,1
+CHM602,Ramesh Ramapanicker,8.38,1
+CHM602,Srinivas Dharavath,10.0,1
+CHM609,Parthasarathi Subramanian,9.88,1
+CHM609,Ramesh Ramapanicker,8.74,1
+CHM609A,Srinivas Dharavath,9.75,2
+CHM611A,Anand Singh,9.33,1
+CHM612,Srinivas Dharavath,10.0,1
+CHM612A,Anand Singh,8.0,1
+CHM622A,Nagma Parveen,7.98,1
+CHM629,Amalendu Chandra,9.39,2
+CHM629A,Amalendu Chandra,9.17,1
+CHM631,Dharmaraja Allimuthu,8.92,2
+CHM631A,Basker Sundararaju,9.43,1
+CHM631A,Dharmaraja Allimuthu,8.08,1
+CHM636,Pratik Sen,8.06,1
+CHM636A,Manabendra Chandra,8.92,1
+CHM636A,Pratik Sen,6.33,1
+CHM646,Sankar Prasad Rath,9.26,2
+CHM646A,Sankar Prasad Rath,7.87,1
+CHM648,Basker Sundararaju,8.29,1
+CHM648,Sabuj Kumar Kundu,8.63,1
+CHM648A,Basker Sundararaju,8.32,1
+CHM649,Raja Angamuthu,9.35,1
+CHM649,Ritika Gautam,9.93,1
+CHM649A,Ritika Gautam,9.11,1
+CHM650A,Amalendu Chandra,7.8,1
+CHM656A,Ramkrishna Sarkar,8.79,1
+CHM662,Parthasarathi Subramanian,9.55,1
+CHM662A,Ramesh Ramapanicker,7.33,1
+CHM663,Raja Angamuthu,8.32,1
+CHM664,Devendra Mani,8.42,1
+CHM666,Sandeep Verma,6.83,1
+CHM667,Mainak Sadhukhan,9.6,1
+CHM667A,Arnab Ghosh,6.33,1
+CHM685A,Pratik Sen,8.5,1
+CHM691,Sabuj Kumar Kundu,9.4,1
+CHM691A,Sabuj Kumar Kundu,6.0,1
+CHM692A,Nagma Parveen,8.51,1
+CHM695,Amalendu Chandra,8.86,1
+CHM695A,Amalendu Chandra,8.5,1
+CHM698,Sandeep Verma,6.915,2
+CHM698A,Sandeep Verma,9.4,2
+CHM799,Pratik Sen,,1
+CS201,Anil Seth,6.77,1
+CS201,Manindra Agrawal,7.77,1
+CS201A,Manindra Agrawal,9.66,1
+CS202A,Sunil Easaw Simon,7.38,1
+CS202M,Anil Seth,6.99,1
+CS203B,Rajat Mittal,7.27,1
+CS203M,Anil Seth,5.29,1
+CS203M,Subhajit Roy,6.8,1
+CS220A,Urbi Chatterjee,8.17,1
+CS253,Indranil Saha,8.49,1
+CS253A,Indranil Saha,9.03,1
+CS300A,Preeti Malakar,,1
+CS315,Purushottam Kar,8.46,1
+CS315A,Arnab Bhattacharya,7.41,1
+CS315A,Sumit Ganguly,7.62,1
+CS330,Debadatta Mishra,7.15,1
+CS330A,Debadatta Mishra,6.89,1
+CS335A,Amey Karkare,6.995,2
+CS335A,Swarnendu Biswas,7.05,2
+CS340,Sunil Easaw Simon,6.77,1
+CS340A,Manindra Agrawal,7.4,1
+CS340A,Sunil Easaw Simon,6.31,1
+CS345,Raghunath Tewari,6.96,1
+CS345A,Anil Seth,7.17,1
+CS345A,Surender Baswana,6.93,1
+CS350,Satyadev Nandakumar,8.8,1
+CS350A,Amey Karkare,7.08,2
+CS355,Rajat Moona,7.0,1
+CS360,Soumya Dutta,8.05,1
+CS360A,Soumya Dutta,8.04,1
+CS422,Rajat Moona,10.0,1
+CS422A,Debadatta Mishra,8.0,1
+CS425A,Amitangshu Pal,9.13,1
+CS455,Sruti Srinivasa Ragavan,7.33,1
+CS455A,Sruti Srinivasa Ragavan,6.87,1
+CS499A,Subhajit Roy,10.0,1
+CS601,Sanjeev Saxena,8.0,1
+CS602,Sanjeev Saxena,7.9,1
+CS602,Surender Baswana,7.66,1
+CS602A,Sanjeev Saxena,7.5,1
+CS610,Swarnendu Biswas,8.440000000000001,2
+CS610A,Swarnendu Biswas,9.0,1
+CS614,Debadatta Mishra,9.03,1
+CS614A,Debadatta Mishra,7.72,1
+CS616,Nisheeth Srivastava,8.0,1
+CS616A,Nisheeth Srivastava,8.83,1
+CS628,Angshuman Karmakar,9.844999999999999,2
+CS628,Rajat Moona,7.5,2
+CS628A,Angshuman Karmakar,10.0,1
+CS633,Preeti Malakar,8.25,1
+CS637,Indranil Saha,7.975,2
+CS637A,Indranil Saha,7.57,1
+CS639,Subhajit Roy,9.03,1
+CS639A,Subhajit Roy,8.325,2
+CS640A,Raghunath Tewari,8.14,1
+CS641,Manindra Agrawal,7.66,1
+CS641A,Manindra Agrawal,8.35,2
+CS642A,Raghunath Tewari,10.0,1
+CS646,Sanjeev Saxena,9.17,1
+CS648,Surender Baswana,8.26,1
+CS648A,Surender Baswana,7.53,1
+CS653,Amey Karkare,7.6,1
+CS655,Rajat Mittal,8.0,1
+CS655A,Rajat Mittal,8.73,1
+CS656,Sunil Easaw Simon,9.33,1
+CS656A,Sunil Easaw Simon,8.7,1
+CS657A,Arnab Bhattacharya,8.3,1
+CS661,Soumya Dutta,8.54,1
+CS661A,Soumya Dutta,8.82,1
+CS662A,Anil Seth,0.0,1
+CS666,Urbi Chatterjee,8.82,1
+CS666A,Urbi Chatterjee,7.56,1
+CS669,Urbi Chatterjee,9.0,1
+CS669A,Debapriya Basu Roy,8.59,1
+CS672,Rajat Mittal,8.2,1
+CS674,Debapriya Basu Roy,8.835,2
+CS674A,Debapriya Basu Roy,7.88,1
+CS677,Soumya Dutta,9.0,1
+CS677A,Preeti Malakar,8.97,1
+CS682,Rajat Mittal,7.86,1
+CS685,Arnab Bhattacharya,7.29,1
+CS687,Satyadev Nandakumar,9.1,1
+CS687A,Satyadev Nandakumar,8.74,1
+CS688A,Nitin Saxena,5.6,1
+CS689,Arnab Bhattacharya,8.48,1
+CS689A,Arnab Bhattacharya,7.87,1
+CS698C,Sumit Ganguly,8.855,2
+CS698Z,Raghunath Tewari,10.0,1
+CS724,Amitangshu Pal,8.85,1
+CS730,Debadatta Mishra,8.0,1
+CS731,Angshuman Karmakar,5.47,1
+CS731A,Angshuman Karmakar,7.69,1
+CS738,Amey Karkare,8.0,1
+CS744,Satyadev Nandakumar,10.0,1
+CS744A,Satyadev Nandakumar,9.8,1
+CS747,Nitin Saxena,10.0,1
+CS747A,Nitin Saxena,10.0,1
+CS748,Nitin Saxena,8.25,1
+CS771,Piyush Rai,8.14,1
+CS771,Purushottam Kar,8.55,2
+CS771A,Nisheeth Srivastava,6.51,1
+CS771A,Purushottam Kar,8.26,2
+CS772,Piyush Rai,8.0,1
+CS772A,Piyush Rai,8.92,1
+CS777,Sutanu Gayen,8.335,2
+CS777A,Sutanu Gayen,9.5,2
+CS779,Ashutosh Modi,9.235,2
+CS779A,Ashutosh Modi,8.675,2
+CS780,Ashutosh Modi,8.11,1
+CS786,Nisheeth Srivastava,7.76,1
+CS786A,Nisheeth Srivastava,8.405000000000001,2
+CS798F,Sumit Ganguly,7.8100000000000005,2
+CS798H,Sruti Srinivasa Ragavan,7.255,2
+CS801,Piyush Rai,,1
+CS888,Preeti Malakar,,1
+DMS201,Amit Shukla,7.82,1
+DMS201,Vipin B,8.08,1
+DMS611,Shankar Prawesh,7.0,1
+DMS621,Raghu Nandan Sengupta,7.24,1
+DMS637,Sri Vanamalla V,8.71,1
+DMS639,Faiz Hamid,8.1,1
+DMS671,Subhas Chandra Misra,9.3,1
+DMS673,Veena Bansal,7.97,1
+DMS700,Jothsna Rajan,7.33,1
+ECO425A,Mahamitra Das,7.75,2
+ECO704,Mahamitra Das,8.57,2
+ECO704A,Mahamitra Das,8.33,1
+EE200,Naren Naik,6.83,1
+EE210,Imon Mondal,7.02,1
+EE210A,Aloke Dutta,4.36,2
+EE210A,Imon Mondal,6.8,1
+EE250,Soumya Ranjan Sahoo,7.23,1
+EE250A,Laxmidhar Behera,6.91,1
+EE250A,Soumya Ranjan Sahoo,7.22,1
+EE301A,Naren Naik,4.323333333333333,3
+EE311A,Aloke Dutta,7.36,1
+EE311A,Avinash Lahgere,6.11,1
+EE320,Abhishek Kumar Gupta,7.29,1
+EE321A,Adrish Banerjee,7.22,1
+EE321A,Govind Sharma,6.135,4
+EE330,Abheejeet Mohapatra,7.675,2
+EE330A,Abheejeet Mohapatra,7.0,1
+EE330A,Alok Ranjan Verma,7.24,1
+EE330A,Swathi Battula,6.59,1
+EE340A,Animesh Biswas,6.93,1
+EE340A,Raghvendra Kumar Chaudhary,8.54,1
+EE360A,Parthasarathi Sensarma,7.16,1
+EE360A,Suvendu Samanta,6.1,1
+EE370,Shubham Sahay,7.8,1
+EE370A,Rik Dey,7.36,1
+EE370A,Shubham Sahay,7.3,1
+EE391A,Amit Verma,7.67,1
+EE491A,Amit Verma,8.21,1
+EE604,Koteswar Rao Jerripothula,7.43,1
+EE605,Ketan Rajawat,7.49,1
+EE605A,Govind Sharma,5.734999999999999,2
+EE605A,Ketan Rajawat,6.0,1
+EE609A,Ketan Rajawat,7.495,2
+EE610,Chithra,6.33,1
+EE610,Imon Mondal,7.05,1
+EE610A,Imon Mondal,7.05,1
+EE614,Avinash Lahgere,7.35,1
+EE614A,Aloke Dutta,5.85,1
+EE614A,Avinash Lahgere,7.59,1
+EE616,Yogesh Singh Chauhan,7.0,1
+EE616A,Aloke Dutta,6.73,2
+EE616A,Yogesh Singh Chauhan,8.75,1
+EE618,Amit Verma,6.41,1
+EE619,Chithra,7.08,1
+EE619A,Chithra,7.82,2
+EE621,Subrahmanya Swamy Peruru,7.67,1
+EE621A,Abhishek Kumar Gupta,7.75,1
+EE621A,Adrish Banerjee,9.0,1
+EE630,Gururaj Mirle Vishwanath,8.71,1
+EE630,Swathi Battula,7.43,1
+EE630A,Abheejeet Mohapatra,8.17,1
+EE630A,Gururaj Mirle Vishwanath,10.0,1
+EE631,Saikat Chakrabarti,6.67,1
+EE631A,Saikat Chakrabarti,7.4,2
+EE632,Abheejeet Mohapatra,9.0,1
+EE632A,Gururaj Mirle Vishwanath,9.22,1
+EE632A,Swathi Battula,8.9,1
+EE633,Swathi Battula,8.23,1
+EE633A,Swathi Battula,9.18,1
+EE634,Nandini Gupta,8.0,2
+EE634A,Nandini Gupta,7.0,1
+EE635,Alok Ranjan Verma,9.5,1
+EE635,Gururaj Mirle Vishwanath,8.54,1
+EE635A,Alok Ranjan Verma,9.0,1
+EE636A,Abheejeet Mohapatra,7.7,1
+EE637A,Saikat Chakrabarti,9.0,1
+EE641,Animesh Biswas,8.96,2
+EE641A,Animesh Biswas,9.0,1
+EE642,Raghvendra Kumar Chaudhary,8.73,2
+EE642A,Raghvendra Kumar Chaudhary,8.0,1
+EE645,Nagaditya Poluri,8.92,1
+EE648,Animesh Biswas,8.74,1
+EE648A,Raghvendra Kumar Chaudhary,8.1,1
+EE649,Nandini Gupta,6.8,1
+EE649A,Nandini Gupta,8.5,1
+EE650,Abhilash Patel,8.32,1
+EE650,Twinkle Tripathy,6.555,2
+EE650A,Abhilash Patel,7.67,1
+EE650A,Twinkle Tripathy,7.42,1
+EE651,Abhilash Patel,8.0,1
+EE653,Ramprasad Potluri,6.9350000000000005,2
+EE653A,Laxmidhar Behera,8.0,1
+EE653A,Ramprasad Potluri,7.0,1
+EE654,Abhilash Patel,7.55,1
+EE654,Ramprasad Potluri,6.0,1
+EE654A,Ramprasad Potluri,7.27,1
+EE660,Parthasarathi Sensarma,7.015000000000001,2
+EE660A,Parthasarathi Sensarma,10.0,1
+EE662,Suvendu Samanta,8.31,1
+EE662A,Parthasarathi Sensarma,7.92,1
+EE664,Piyush Kant,8.11,1
+EE666,Piyush Kant,7.78,1
+EE667,Washim Uddin Mondal,9.0,1
+EE670,Adrish Banerjee,8.67,1
+EE671A,Laxmidhar Behera,7.88,1
+EE672,Abhishek Kumar Gupta,8.7,1
+EE672A,Abhishek Kumar Gupta,9.67,1
+EE673,Subrahmanya Swamy Peruru,8.5,1
+EE673A,Subrahmanya Swamy Peruru,8.004999999999999,2
+EE675,Subrahmanya Swamy Peruru,7.96,1
+EE675A,Subrahmanya Swamy Peruru,8.41,1
+EE677,Rohit Budhiraja,7.29,2
+EE677A,Rohit Budhiraja,6.57,1
+EE679,Ankush Sharma,7.355,2
+EE679A,Ankush Sharma,10.0,1
+EE681,Yogesh Singh Chauhan,7.5,1
+EE681A,Yogesh Singh Chauhan,8.665,2
+EE683,Shilpi Gupta,8.125,2
+EE683A,Shilpi Gupta,9.0,1
+EE684,Pradeep Kumar,8.45,2
+EE684A,Pradeep Kumar,9.1,2
+EE685,Shilpi Gupta,8.33,1
+EE687,Shubham Sahay,7.63,1
+EE687A,Shubham Sahay,6.95,1
+EE689,Twinkle Tripathy,8.09,1
+EE689A,Twinkle Tripathy,8.5,1
+EE698B,Ankush Sharma,7.095,2
+EE698D,Baquer Mazhari,8.096666666666666,3
+EE698E,Suvendu Samanta,7.6899999999999995,2
+EE698F,Yogesh Singh Chauhan,9.0,1
+EE698G,Chithra,8.190000000000001,2
+EE698J,Naren Naik,6.5,1
+EE698K,Vipul Arora,8.1,1
+EE698N,Baquer Mazhari,7.645,2
+EE698P,Shubham Sahay,8.0,1
+EE698R,Vipul Arora,7.7,1
+EE698S,Alok Ranjan Verma,7.635,2
+EE698U,Abhishek Kumar Gupta,9.25,1
+EE698Y,Shilpi Gupta,8.559999999999999,2
+EE705A,Laxmidhar Behera,8.18,2
+EE706A,Amit Verma,7.0,1
+EE798B,Vipul Arora,6.4,1
+EE798D,Suvendu Samanta,7.43,1
+EE798E,Saikat Chakrabarti,8.5,1
+EE798G,Amit Verma,7.0,1
+EE798I,Rituraj,6.94,3
+EE798L,Rohit Budhiraja,8.07,1
+EE798M,Piyush Kant,7.959999999999999,2
+EE798N,Abhilash Patel,7.71,1
+EE798O,Soumya Ranjan Sahoo,9.17,1
+EE798P,Vipul Arora,8.73,1
+EE798T,Ketan Rajawat,8.36,1
+EE798U,Pradeep Kumar,9.0,1
+EE798V,Rituraj,9.0,1
+EE798Y,Soumya Ranjan Sahoo,7.88,1
+EE899,Soumya Ranjan Sahoo,,1
+ENG122,Chaithra Puttaswamy,7.61,1
+ENG123A,Mini Chandran,7.24,1
+ENG431,Mini Chandran,7.51,1
+ENG436A,Suchitra Mathur,7.4,1
+ENG437,Muthukumar M,7.96,1
+ENG437A,Mini Chandran,6.96,1
+ENG438,Suchitra Mathur,8.12,1
+ENG438A,Sayan Chattopadhyay,7.56,1
+ENG439A,Mini Chandran,7.15,1
+ENG448A,Chaithra Puttaswamy,7.31,1
+ENG450,Lakshmana Rao P,8.0,1
+ENG450A,Lakshmana Rao P,7.9,1
+ENG460,Sayan Chattopadhyay,7.78,1
+ENG460A,Sayan Chattopadhyay,7.33,1
+ENG611,Sayan Chattopadhyay,10.0,1
+ENG705,Muthukumar M,8.0,1
+ENG707,Lakshmana Rao P,9.33,1
+ENG708A,Lakshmana Rao P,10.0,1
+ENG716,Muthukumar M,10.0,1
+ENG742,Suchitra Mathur,9.0,1
+ENG743,Suchitra Mathur,9.29,1
+ENG751,Sayan Chattopadhyay,10.0,1
+ENG755,Lakshmana Rao P,9.5,2
+ENG763,Chaithra Puttaswamy,10.0,1
+ENG764A,Mini Chandran,8.0,1
+ES201,Deepak Dhingra,8.43,1
+ES202,Indra Sekhar Sen,8.32,1
+ES203,Javed N Malik,6.88,1
+ES206,Ishwar Kumar Cukkemane,7.23,1
+ES311P,Deepak Dhingra,4.5,1
+ES312A,Debajyoti Paul,8.57,1
+ES313A,Javed N Malik,9.0,1
+ES313A,Rajiv Sinha,6.6899999999999995,2
+ES315A,Ishwar Kumar Cukkemane,7.77,1
+ES411A,Santanu Misra,5.65,1
+ES412A,Rajiv Sinha,8.19,2
+ES413A,Debajyoti Paul,4.9,1
+ES413A,Indra Sekhar Sen,7.92,1
+ES414A,Santanu Misra,7.57,1
+ES415A,Deepak Dhingra,7.37,1
+ES415A,Javed N Malik,7.38,1
+ES416A,Animesh Mandal,5.73,1
+ES418A,Animesh Mandal,8.78,1
+ES418A,Dibakar Ghosal,8.76,1
+ES452A,Javed N Malik,7.615,2
+ES454A,Indra Sekhar Sen,6.8,1
+ES455A,Debajyoti Paul,7.279999999999999,2
+ES649,Debajyoti Paul,8.24,1
+ES649,Indra Sekhar Sen,6.91,1
+ES649A,Debajyoti Paul,5.82,1
+ES649A,Indra Sekhar Sen,5.67,1
+ES651,Dibakar Ghosal,7.27,1
+ES651A,Dibakar Ghosal,6.57,1
+ES653,Rajiv Sinha,7.67,1
+ES654,Santanu Misra,8.11,1
+ES655,Animesh Mandal,8.29,1
+ES656,Animesh Mandal,7.29,1
+ES657,Santanu Misra,9.43,1
+ES657A,Santanu Misra,8.4,1
+ES661,Deepak Dhingra,6.44,1
+ES662A,Ishwar Kumar Cukkemane,6.87,1
+ES682,Dibakar Ghosal,6.62,1
+ES699,Ishwar Kumar Cukkemane,,1
+ES799,Ishwar Kumar Cukkemane,,1
+ESC111M,Debapriya Basu Roy,7.94,1
+ESC111M,Urbi Chatterjee,8.14,1
+ESC112M,Debapriya Basu Roy,7.78,1
+ESC112M,Urbi Chatterjee,7.4,1
+ESC201,Abhishek Kumar Gupta,8.21,1
+ESC201,Imon Mondal,7.0,1
+ESC201,Rik Dey,6.08,2
+ESC201A,Amit Verma,6.32,1
+ESC201A,Rik Dey,5.0,1
+ESC201A,Vipul Arora,7.37,1
+ESC201P,Rik Dey,9.0,1
+ESO201,Avinash Kumar Agarwal,7.35,1
+ESO201,Santanu De,5.9,1
+ESO202A,Sudib Kumar Mishra,4.93,1
+ESO202A,Vinay Kumar Gupta,5.0,1
+ESO203,Gururaj Mirle Vishwanath,9.28,1
+ESO203A,Nandini Gupta,7.12,1
+ESO203P,Gururaj Mirle Vishwanath,10.0,1
+ESO205A,Kaustubh Kulkarni,6.45,1
+ESO205A,Sandeep Sangal,7.62,1
+ESO206A,Ashwani Kumar Thakur,6.65,2
+ESO207,Nitin Saxena,6.56,1
+ESO207,Raghunath Tewari,7.69,1
+ESO207,Sutanu Gayen,7.38,1
+ESO207A,Raghunath Tewari,7.61,1
+ESO207A,Sanjeev Saxena,6.27,1
+ESO207A,Surender Baswana,6.99,1
+ESO208,Balaji Devaraju,6.76,1
+ESO208,Gourabananda Pahar,7.6,1
+ESO208A,Gourabananda Pahar,5.95,1
+ESO208A,Richa Ojha,7.28,1
+ESO209A,Ishan Sharma,3.7849999999999997,2
+ESO213,Deepak Dhingra,5.17,1
+ESO213,Ishwar Kumar Cukkemane,7.07,1
+ESO225,Krishanu Biswas,7.67,1
+ESO225,Shikhar Misra,7.12,1
+FA888,Rajarshi Sengupta,10.0,1
+HSS405A,Muthukumar M,8.36,1
+IDC608,Ashutosh Kumar,6.0,1
+LIF101A,Robert Sonowal,5.72,1
+LIF111,Saravanan Matheshwaran,6.13,1
+MBA718M,Amit Shukla,8.38,1
+MBA725M,Mousami Prasad,8.7,1
+MBA733M,Jitender Kumar,9.37,1
+MBA735M,Jitender Kumar,8.65,1
+MBA746M,Subhas Chandra Misra,9.16,1
+MBA770M,Abhinava Tripathi,8.95,1
+MBA775M,Harshal Rajan Mulay,7.86,1
+MBA776M,Suman Saurabh,8.48,1
+MBA780M,Abhinava Tripathi,8.42,1
+MBA784M,Anoop Singh,8.879999999999999,2
+ME209,Akhilesh Mimani,4.86,1
+ME209,Dipayan Mukherjee,6.82,1
+ME209,Pankaj Wahi,5.0,1
+ME222,Ushasi Roy,6.31,1
+ME222A,Ushasi Roy,5.33,1
+ME231P,Pranav Joshi,6.85,1
+ME251A,Anindya Chatterjee,7.33,1
+ME251A,Nachiketa Tiwari,7.04,2
+ME261,Arvind Kumar,6.69,1
+ME301,Abhishek Sarkar,7.65,1
+ME301A,Abhishek Sarkar,7.99,1
+ME321A,Ishan Sharma,7.3,1
+ME321A,Manjesh Kumar Singh,7.6,1
+ME340A,P. K. Panigrahi,7.43,1
+ME340A,Umesh Madanan,7.0,1
+ME341,Aditya Saurabh,7.02,1
+ME341A,Aditya Saurabh,6.44,1
+ME341A,Gautam Biswas,8.27,1
+ME341A,Umesh Madanan,7.45,1
+ME351A,Anindya Chatterjee,7.45,1
+ME352A,Bhaskar Dasgupta,5.48,1
+ME352A,K R Guruprasad,8.08,1
+ME359A,Avinash Kumar Agarwal,8.33,1
+ME361A,Shantanu Bhattacharya,7.65,1
+ME361A,Supratik Mukhopadhyay,7.92,1
+ME361P,Shantanu Bhattacharya,7.29,1
+ME381,Ashish Dutta,7.18,1
+ME399A,Jishnu Bhattacharya,,1
+ME399A,Pranav Joshi,,1
+ME401A,Gautam Biswas,7.3149999999999995,2
+ME401A,Subrata Sarkar,8.42,1
+ME454,Anindya Chatterjee,8.83,1
+ME454A,Anindya Chatterjee,8.64,1
+ME461A,Ashish Dutta,6.3,1
+ME461A,Niraj Sinha,5.54,2
+ME613,Umesh Madanan,6.94,1
+ME613A,Umesh Madanan,7.0,1
+ME621,Anurag Gupta,5.91,1
+ME621,Basant Lal Sharma,6.0,1
+ME621A,Anurag Gupta,7.6,1
+ME621A,Basant Lal Sharma,9.0,1
+ME622A,Anurag Gupta,6.47,1
+ME623,Pankaj Wahi,7.65,1
+ME623,Sumit Basu,7.385,2
+ME623A,Nachiketa Tiwari,7.575,2
+ME623A,Sumit Basu,9.0,1
+ME623A,Ushasi Roy,6.49,2
+ME624A,Basant Lal Sharma,5.6,1
+ME625,Dipayan Mukherjee,7.53,1
+ME625A,Dipayan Mukherjee,9.5,1
+ME626,Pankaj Wahi,9.25,1
+ME627,Pankaj Wahi,6.75,1
+ME627A,Pankaj Wahi,7.0,1
+ME630,Anikesh Pal,7.3,1
+ME630,Subrata Sarkar,8.19,1
+ME630A,Malay Kumar Das,7.25,1
+ME630A,Subrata Sarkar,7.33,1
+ME631,Anikesh Pal,6.78,1
+ME631,Santanu De,8.16,1
+ME631A,Anikesh Pal,4.67,1
+ME632,Ishan Sharma,9.0,1
+ME632A,Ishan Sharma,9.5,1
+ME634,Gautam Biswas,9.46,1
+ME634A,Gautam Biswas,8.045,2
+ME634A,Subrata Sarkar,7.14,1
+ME641,Shyam Sunder Gopalakrishnan,6.975,2
+ME641A,Shyam Sunder Gopalakrishnan,6.5,1
+ME642,Aditya Saurabh,8.41,1
+ME642A,Umesh Madanan,6.32,1
+ME643A,Santanu De,8.25,1
+ME644,Malay Kumar Das,7.85,1
+ME645,Jishnu Bhattacharya,7.2,1
+ME647,Anikesh Pal,9.0,1
+ME653,Manjesh Kumar Singh,9.27,1
+ME655,Aditya Saurabh,9.0,1
+ME655A,Aditya Saurabh,4.0,1
+ME656,Shyam Sunder Gopalakrishnan,8.25,1
+ME662A,Shantanu Bhattacharya,7.85,2
+ME663,Supratik Mukhopadhyay,7.42,2
+ME663A,Supratik Mukhopadhyay,8.0,1
+ME664,Virkeshwar Kumar,8.53,1
+ME664A,Arvind Kumar,7.75,1
+ME668A,Mohit Law,6.5,1
+ME670,Arvind Kumar,7.775,2
+ME670A,Arvind Kumar,9.5,1
+ME673A,Malay Kumar Das,8.55,1
+ME676,Dipayan Mukherjee,7.71,1
+ME676A,Anupam Saxena,6.0,1
+ME679,Supratik Mukhopadhyay,9.0,1
+ME681,Bhaskar Dasgupta,5.8,1
+ME681,Malay Kumar Das,7.8,1
+ME681,Manjesh Kumar Singh,7.37,1
+ME681A,Bhaskar Dasgupta,3.5,1
+ME681A,Manjesh Kumar Singh,7.220000000000001,2
+ME682,Basant Lal Sharma,6.2,1
+ME685,Abhishek Sarkar,8.47,1
+ME685A,Anikesh Pal,6.28,1
+ME685A,Malay Kumar Das,7.34,1
+ME687A,Abhishek Sarkar,5.18,1
+ME688,Tushar Sikroria,8.33,1
+ME690,Avinash Kumar Agarwal,9.0,1
+ME690A,Avinash Kumar Agarwal,7.9,2
+ME692,Virkeshwar Kumar,7.77,1
+ME692A,Virkeshwar Kumar,7.64,1
+ME698A,Malay Kumar Das,7.64,1
+ME698B,Ishan Sharma,9.67,1
+ME698C,Anurag Gupta,9.29,1
+ME698F,Avinash Kumar Agarwal,9.45,1
+ME698I,Manjesh Kumar Singh,6.3,1
+ME698J,Subrata Sarkar,6.86,1
+ME698L,Jishnu Bhattacharya,9.2,1
+ME698N,Abhishek Sarkar,9.0,1
+ME698R,Ushasi Roy,6.44,1
+ME698W,Shyam Sunder Gopalakrishnan,8.07,1
+ME701,Niraj Sinha,8.33,1
+ME701A,Niraj Sinha,6.0,1
+ME702,Jishnu Bhattacharya,,1
+ME721,Anurag Gupta,9.4,1
+ME723,Akhilesh Mimani,8.0,1
+ME724A,Basant Lal Sharma,6.67,1
+ME729,Sumit Basu,9.0,1
+ME730A,Mohit Law,9.05,1
+ME745,Santanu De,10.0,1
+ME745A,Santanu De,10.0,1
+ME751,Anupam Saxena,8.085,2
+ME751A,Anupam Saxena,6.54,1
+ME752,Bhaskar Dasgupta,5.67,1
+ME752A,Bhaskar Dasgupta,6.67,1
+ME761A,J. Ramkumar,8.0,1
+ME762,Ashish Dutta,6.94,1
+ME762,K R Guruprasad,6.31,1
+ME762A,Ashish Dutta,7.5,1
+ME763,K R Guruprasad,8.5,1
+ME763A,K R Guruprasad,7.64,1
+ME766,Ashish Dutta,8.47,1
+ME774A,Shantanu Bhattacharya,6.93,1
+ME778,Akhilesh Mimani,10.0,1
+ME778A,Akhilesh Mimani,6.75,2
+ME778A,Nachiketa Tiwari,7.55,2
+ME850,Anindya Chatterjee,9.0,1
+ME851,Anupam Saxena,7.71,1
+MSE201,Deepak Gupta,5.5,1
+MSE201A,Kaustubh Kulkarni,7.52,1
+MSE202,Rahul Sarkar,6.25,1
+MSE202A,Rajiv Shekhar,6.94,1
+MSE203,Shikhar Krishn Jha,7.08,1
+MSE203A,Shikhar Krishn Jha,6.4,1
+MSE204,Shivam Tripathi,6.9,1
+MSE204,Somnath Bhowmick,6.8,1
+MSE204A,Vivek Verma,7.99,2
+MSE205,Anshu Gaur,6.26,1
+MSE251,Shashank Shekhar,8.5,1
+MSE300A,Monica Katiyar,,1
+MSE300A,Somnath Bhowmick,,1
+MSE301,Rajdip Mukherjee,7.03,1
+MSE301A,Kallol Mondal,4.77,1
+MSE301A,Rajdip Mukherjee,7.3,1
+MSE302,Srinu Gangolu,6.39,1
+MSE302A,Srinu Gangolu,7.05,1
+MSE303,Anshu Gaur,5.22,1
+MSE303A,Anshu Gaur,5.74,2
+MSE303A,Monica Katiyar,6.91,1
+MSE304,Amarendra Kumar Singh,5.71,1
+MSE304A,Amarendra Kumar Singh,7.515000000000001,2
+MSE305,Anish Upadhyaya,7.42,1
+MSE305A,Shikhar Krishn Jha,8.11,1
+MSE305A,Srinu Gangolu,7.45,1
+MSE311A,Niraj Mohan Chawake,8.78,1
+MSE312A,Deepak Gupta,8.719999999999999,2
+MSE312A,Monica Katiyar,9.4,1
+MSE314A,Arunabh Meshram,8.35,1
+MSE314A,Rahul Sarkar,8.61,1
+MSE314A,Shobit Omar,10.0,1
+MSE315A,Shobit Omar,8.0,1
+MSE315A,Srinu Gangolu,8.66,1
+MSE315A,Sudhanshu Shekhar Singh,8.91,1
+MSE352,Shobit Omar,9.26,1
+MSE353A,Sandeep Sangal,10.0,1
+MSE421A,Rahul Sarkar,6.9,1
+MSE604,Monica Katiyar,8.8,1
+MSE604A,Shikhar Misra,7.4,1
+MSE608A,Rajdip Mukherjee,7.18,1
+MSE611,Kallol Mondal,7.0,1
+MSE611A,Kallol Mondal,5.95,1
+MSE615,Tanmoy Maiti,8.105,2
+MSE616,Raghupathy Yuvaraj,7.45,1
+MSE617,Krishanu Biswas,8.97,1
+MSE617A,Somnath Bhowmick,8.43,1
+MSE624A,Anshu Gaur,5.59,1
+MSE626,Arunabh Meshram,8.32,1
+MSE626,Rajiv Shekhar,8.51,1
+MSE626A,Arunabh Meshram,10.0,1
+MSE627A,Niraj Mohan Chawake,7.86,1
+MSE628,Deepak Gupta,9.2,1
+MSE628,Shikhar Misra,9.25,1
+MSE628A,Deepak Gupta,7.4,2
+MSE628A,Shikhar Misra,5.0,1
+MSE631A,Tanmoy Maiti,8.405000000000001,2
+MSE638,Tanmoy Maiti,7.82,1
+MSE638A,Somnath Bhowmick,6.83,1
+MSE639,Rajdip Mukherjee,7.07,1
+MSE639A,Rajdip Mukherjee,8.5,1
+MSE642,Nilesh Prakash Gurao,7.640000000000001,2
+MSE642A,Nilesh Prakash Gurao,6.17,1
+MSE643A,Krishanu Biswas,8.44,1
+MSE648,Kaustubh Kulkarni,8.0,1
+MSE648A,Kaustubh Kulkarni,8.33,1
+MSE650,Sandeep Sangal,8.44,1
+MSE650A,Sandeep Sangal,10.0,1
+MSE651,Rahul Sarkar,7.6,1
+MSE651A,Rahul Sarkar,7.36,1
+MSE652A,Shikhar Misra,8.36,1
+MSE654,Raghupathy Yuvaraj,7.71,1
+MSE658,Niraj Mohan Chawake,7.8,1
+MSE658,Sudhanshu Shekhar Singh,7.25,1
+MSE658A,Niraj Mohan Chawake,7.06,1
+MSE659,Anish Upadhyaya,8.33,1
+MSE659,Shobit Omar,7.62,1
+MSE659A,Anish Upadhyaya,6.86,1
+MSE659A,Shikhar Krishn Jha,7.59,1
+MSE661A,Sudhanshu Shekhar Singh,7.42,1
+MSE662,Arunabh Meshram,8.32,1
+MSE662A,Arunabh Meshram,8.02,1
+MSE664,Shobit Omar,9.33,1
+MSE667,Niraj Mohan Chawake,7.14,1
+MSE670,Krishanu Biswas,8.38,1
+MSE670A,Amarendra Kumar Singh,7.95,2
+MSE670A,Kaustubh Kulkarni,8.78,1
+MSE671,Raghupathy Yuvaraj,6.4,1
+MSE671A,Kallol Mondal,8.47,1
+MSE676,Anish Upadhyaya,8.38,1
+MSE682,Somnath Bhowmick,7.76,1
+MSE683A,Nilesh Prakash Gurao,8.62,1
+MSE690,Vivek Verma,,1
+MSE690A,Shashank Shekhar,,1
+MSE691,Vivek Verma,,1
+MSE691A,Shashank Shekhar,,1
+MSE691A,Vivek Verma,,1
+MSE693,Vivek Verma,8.12,1
+MSE693A,Kantesh Balani,8.24,1
+MSE694,Monica Katiyar,8.82,1
+MSE694,Shikhar Krishn Jha,9.7,1
+MSE694A,Shikhar Krishn Jha,8.79,1
+MSE799,Nilesh Prakash Gurao,,1
+MSE801,Shikhar Misra,,1
+MSE801,Somnath Bhowmick,,1
+MSE888,Kantesh Balani,9.0,1
+MSO201,Amit Mitra,7.0,1
+MSO201A,Amit Mitra,6.92,1
+MSO201A,Subhajit Dutta,7.43,1
+MSO202A,Saurabh Kumar Singh,6.33,1
+MSO202M,Saurabh Kumar Singh,6.6,2
+MSO203M,Dhirendra Bahuguna,6.26,1
+MSO205,Subhra Sankar Dhar,6.58,1
+MSO205,Suprio Bhar,5.92,1
+MTH101A,Ashis Mandal,4.53,1
+MTH101S,Sameer Chavan,8.0,1
+MTH102A,Debasis Sen,2.17,1
+MTH102A,Kaushik Bal,4.08,1
+MTH102A,Pooja Singla,4.6,1
+MTH111M,Nandini Nilakantan,4.463333333333333,3
+MTH112M,Abhijit Pal,5.96,2
+MTH112M,Ashis Mandal,5.96,2
+MTH112M,Nandini Nilakantan,5.65,1
+MTH113M,Abhijit Pal,5.46,1
+MTH113M,Kaushik Bal,3.12,1
+MTH113M,Pooja Singla,2.0,1
+MTH114M,Debasis Sen,6.76,1
+MTH114M,Dhirendra Bahuguna,3.83,1
+MTH201A,Santosh Nadimpalli,6.41,1
+MTH201A,Somnath Jha,4.26,1
+MTH202,Alok Kumar Maloo,6.3100000000000005,2
+MTH202A,Alok Kumar Maloo,6.44,1
+MTH204,Santosha Kumar Pattanayak,6.25,1
+MTH204,Somnath Jha,4.89,1
+MTH204A,Santosha Kumar Pattanayak,0.0,1
+MTH204A,Somnath Jha,5.05,1
+MTH204B,Narasimha Chary Bonala,4.78,1
+MTH205,Parasar Mohanty,5.33,1
+MTH205A,Parasar Mohanty,3.5,1
+MTH206M,Soumyarup Sadhukhan,7.435,2
+MTH207M,Soumyarup Sadhukhan,7.119999999999999,2
+MTH208,Dootika Vats,7.515,2
+MTH209A,Subhajit Dutta,7.01,1
+MTH210A,Dootika Vats,7.44,1
+MTH211A,Minerva Mukhopadhyay,6.615,2
+MTH215,Saurabh Kumar Singh,7.83,1
+MTH215A,Saurabh Kumar Singh,8.0,1
+MTH301,Arijit Ganguly,3.88,1
+MTH301,Ashutosh Kumar,6.6,1
+MTH301,Satyajit Guin,4.7,1
+MTH301A,Ashutosh Kumar,4.57,1
+MTH301A,Bidyut Sanki,6.93,1
+MTH301A,Keshab Chandra Bakshi,5.89,1
+MTH302,Ashutosh Kumar,5.83,1
+MTH303,Sudhanshu Shekhar,8.75,1
+MTH304,Keshab Chandra Bakshi,6.76,1
+MTH304A,Aparna Dar,9.21,1
+MTH305A,Bidyut Sanki,4.92,1
+MTH305A,Vikramjeet Singh Chandel,5.16,1
+MTH308,Mrinmay Biswas,6.45,1
+MTH308B,Mrinmay Biswas,7.0,1
+MTH309,Suprio Bhar,5.21,1
+MTH312A,Subhra Sankar Dhar,8.46,1
+MTH313M,Debasis Kundu,7.83,1
+MTH314A,Shalabh,7.86,1
+MTH399A,Aparna Dar,,2
+MTH401,Mohua Banerjee,6.9,1
+MTH401A,Mohua Banerjee,8.38,1
+MTH403,Parasar Mohanty,6.52,1
+MTH403,Sudhanshu Shekhar,5.0,1
+MTH403A,Arijit Ganguly,4.22,1
+MTH403A,Sudhanshu Shekhar,4.5,1
+MTH404,Satyajit Guin,7.34,1
+MTH404A,Keshab Chandra Bakshi,8.58,1
+MTH405,Kaushik Bal,6.7,1
+MTH412A,Debasis Kundu,6.0,1
+MTH415A,Subhajit Dutta,6.12,1
+MTH418,Neeraj Misra,6.84,1
+MTH418A,Neeraj Misra,6.43,1
+MTH421,Malay Banerjee,4.98,1
+MTH421A,Arijit Ganguly,4.97,1
+MTH421A,Kaushik Bal,4.82,1
+MTH421A,Malay Banerjee,5.7,1
+MTH421A,Mrinmay Biswas,4.82,1
+MTH422A,Arnab Hazra,8.26,1
+MTH424,Indranil Chowdhury,6.43,1
+MTH424A,Kaushik Bal,7.11,1
+MTH424A,Parasar Mohanty,6.84,1
+MTH428A,Dhirendra Bahuguna,7.71,1
+MTH430A,Akash Anand,6.68,2
+MTH432M,Shalabh,7.9399999999999995,2
+MTH433,Sasmita Patnaik,6.17,1
+MTH433A,Rama Rawat,7.21,1
+MTH433A,Sasmita Patnaik,3.635,2
+MTH434M,Abhijit Pal,4.83,1
+MTH436,Narasimha Chary Bonala,7.92,1
+MTH441,Satya Prakash Singh,6.84,1
+MTH441A,Satya Prakash Singh,7.84,1
+MTH442,Arnab Hazra,7.12,1
+MTH442A,Amit Mitra,7.88,1
+MTH443A,Amit Mitra,8.04,1
+MTH514A,Minerva Mukhopadhyay,6.46,1
+MTH514A,Subhra Sankar Dhar,8.2,1
+MTH515,Neeraj Misra,7.26,1
+MTH515A,Neeraj Misra,7.325,2
+MTH516,Sharmishtha Mitra,7.03,1
+MTH516A,Sharmishtha Mitra,6.44,1
+MTH516A,Subhajit Dutta,6.96,1
+MTH535A,Arnab Hazra,8.91,1
+MTH600M,Mohua Banerjee,,1
+MTH611,Sudhanshu Shekhar,7.3,1
+MTH612,Ashis Mandal,6.93,1
+MTH616A,Akash Anand,7.67,1
+MTH620,Rama Rawat,7.69,1
+MTH621A,Parasar Mohanty,7.86,1
+MTH628,Aparna Dar,9.57,1
+MTH628A,Aparna Dar,9.5,1
+MTH633,Bidyut Sanki,9.33,1
+MTH633A,Abhijit Pal,8.4,1
+MTH633A,Bidyut Sanki,9.43,1
+MTH635A,Sasmita Patnaik,7.914999999999999,2
+MTH636,Soumyarup Sadhukhan,7.79,1
+MTH638A,Arijit Ganguly,10.0,1
+MTH640,Vikramjeet Singh Chandel,9.0,1
+MTH640A,Vikramjeet Singh Chandel,6.67,1
+MTH641,Pooja Singla,8.4,1
+MTH643A,Arnab Hazra,8.0,1
+MTH648,Ashis Mandal,4.29,1
+MTH649,Debasis Sen,7.0,1
+MTH649A,Bidyut Sanki,6.85,1
+MTH651,Narasimha Chary Bonala,9.0,1
+MTH652,Vikramjeet Singh Chandel,8.0,1
+MTH652A,Rama Rawat,8.665,2
+MTH653,Dhirendra Bahuguna,6.0,1
+MTH653A,Dhirendra Bahuguna,7.83,1
+MTH656,Mrinmay Biswas,3.67,1
+MTH658A,Malay Banerjee,5.83,2
+MTH665,Minerva Mukhopadhyay,7.0,1
+MTH665A,Minerva Mukhopadhyay,2.67,1
+MTH665A,Subhajit Dutta,6.36,1
+MTH665A,Subhra Sankar Dhar,8.0,1
+MTH667A,Santosha Kumar Pattanayak,10.0,1
+MTH669A,Arijit Ganguly,10.0,1
+MTH670,Vikramjeet Singh Chandel,6.33,1
+MTH670A,Vikramjeet Singh Chandel,9.0,1
+MTH673A,Subhra Sankar Dhar,7.11,1
+MTH676,Sharmishtha Mitra,6.82,1
+MTH676A,Shalabh,8.45,1
+MTH679,Malay Banerjee,9.0,1
+MTH680,Keshab Chandra Bakshi,10.0,1
+MTH680A,Keshab Chandra Bakshi,10.0,1
+MTH686,Debasis Kundu,8.625,2
+MTH686A,Debasis Kundu,7.57,1
+MTH688A,Sudhanshu Shekhar,7.0,1
+MTH689,Satya Prakash Singh,7.39,1
+MTH689A,Satya Prakash Singh,7.67,2
+MTH690A,Subhajit Dutta,8.11,1
+MTH699A,Debasis Sen,10.0,1
+MTH700A,Debasis Sen,10.0,1
+MTH701A,Mohua Banerjee,8.0,1
+MTH702M,Dootika Vats,,1
+MTH703,Indranil Chowdhury,9.0,1
+MTH712,Somnath Jha,9.07,1
+MTH715,Sameer Chavan,8.0,1
+MTH720,Akash Anand,6.17,1
+MTH727A,Ashutosh Kumar,10.0,1
+MTH731,Pooja Singla,8.0,1
+MTH731A,Pooja Singla,8.0,1
+MTH732,Saurabh Kumar Singh,9.17,1
+MTH735A,Satyajit Guin,10.0,1
+MTH736,Rama Rawat,8.0,1
+MTH739,Santosha Kumar Pattanayak,9.0,1
+MTH751,Alok Kumar Maloo,7.67,1
+MTH751,Sameer Chavan,9.2,1
+MTH751A,Alok Kumar Maloo,8.75,1
+MTH751A,Sachin Sharma,7.0,1
+MTH753,Satyajit Guin,10.0,1
+MTH753A,Satyajit Guin,10.0,1
+MTH754,Subhra Sankar Dhar,9.0,1
+MTH754,Suprio Bhar,7.75,1
+MTH754A,Minerva Mukhopadhyay,8.0,1
+MTH754A,Suprio Bhar,8.0,1
+MTH755,Amit Mitra,9.2,1
+MTH755,Sharmishtha Mitra,7.25,1
+MTH755A,Sharmishtha Mitra,6.125,2
+MTH759,Santosha Kumar Pattanayak,9.2,1
+MTH888M,Mohua Banerjee,,1
+MTH889M,Shalabh,,1
+PHY101A,Asima Pradhan,8.203333333333333,3
+PHY101A,Manas Khan,5.87,1
+PHY102A,Arijit Kundu,5.0,1
+PHY103A,Dipankar Chakrabarti,4.94,1
+PHY103A,Harshawardhan Wanare,5.27,1
+PHY103A,Saurabh Mani Tripathi,5.47,1
+PHY103R,Dipankar Chakrabarti,5.07,2
+PHY111,Manas Khan,7.779999999999999,2
+PHY111,Soumik Mukhopadhyay,8.62,1
+PHY112,Amit Kumar Agarwal,6.97,1
+PHY112,Arijit Kundu,5.055,2
+PHY112,Supratik Banerjee,5.87,1
+PHY113,Supratik Banerjee,7.03,1
+PHY113,Taraknath Mandal,6.43,1
+PHY114,Anand Kumar Jha,6.31,1
+PHY114,Anjan Kumar Gupta,5.74,1
+PHY114,Debtosh Chowdhury,5.1,1
+PHY115,Sivasurender Chandran,6.16,1
+PHY205A,Manas Khan,5.52,1
+PHY210A,Anjan Kumar Gupta,6.37,1
+PHY210A,Supratik Banerjee,6.5,1
+PHY210M,Koushik Pal,7.52,1
+PHY210M,Supratik Banerjee,6.2,1
+PHY224,Venkata Jayasurya Yallapragada,7.48,2
+PHY224A,Venkata Jayasurya Yallapragada,8.28,1
+PHY305A,Gopal Hazra,6.0,1
+PHY305A,Pankaj Jain,5.64,1
+PHY307A,Saurabh Mani Tripathi,4.91,1
+PHY309A,Debashish Chowdhury,6.12,1
+PHY313A,Saikat Ghosh,8.45,1
+PHY315,Rajeev Gupta,7.3,1
+PHY315A,Krishnacharya,7.283333333333334,3
+PHY399A,Sudeep Bhattacharjee,,1
+PHY400,Amit Kumar Agarwal,10.0,1
+PHY400A,Amit Kumar Agarwal,,1
+PHY400A,Chanchal Sow,,1
+PHY400A,Debashish Chowdhury,,1
+PHY401,Tapobrata Sarkar,4.79,2
+PHY401A,Tapobrata Sarkar,5.970000000000001,2
+PHY404,Sagar Chakraborty,5.0,1
+PHY407,Kaushik Bhattacharya,7.17,1
+PHY412A,Debashish Chowdhury,6.890000000000001,3
+PHY421,Tarun Kanti Ghosh,6.06,1
+PHY421A,Debtosh Chowdhury,5.55,1
+PHY422A,Arjun Bagchi,6.74,1
+PHY422A,Kaushik Bhattacharya,8.68,1
+PHY431,Joydeep Chakrabortty,6.62,1
+PHY431A,Chanchal Sow,6.5,1
+PHY432,Debtosh Chowdhury,7.38,1
+PHY432A,Debtosh Chowdhury,7.0,1
+PHY461,Jayita Nayak,7.83,1
+PHY461,Zakir Hossain,7.96,1
+PHY461A,Jayita Nayak,7.46,1
+PHY461A,Krishnacharya,8.63,1
+PHY462,Jayita Nayak,9.22,1
+PHY462,Zakir Hossain,8.62,1
+PHY462A,Krishnacharya,9.1,1
+PHY462A,Zakir Hossain,9.24,1
+PHY473,Gopal Hazra,6.62,1
+PHY473A,Gopal Hazra,7.21,1
+PHY473A,Taraknath Mandal,7.24,1
+PHY500A,Sudeep Bhattacharjee,10.0,1
+PHY501A,Chanchal Sow,8.53,1
+PHY502A,Chanchal Sow,7.0,1
+PHY502A,Sudeep Bhattacharjee,8.46,1
+PHY502A,Taraknath Mandal,9.31,1
+PHY524,Saikat Ghosh,0.0,1
+PHY524A,Saikat Ghosh,7.08,1
+PHY526A,Pankaj Jain,7.59,2
+PHY552,Avinash Singh,5.76,1
+PHY552A,Avinash Singh,4.475,2
+PHY552A,Kaushik Bhattacharya,4.17,1
+PHY552A,Saurabh Mani Tripathi,9.17,1
+PHY553,Gautam Sengupta,7.33,1
+PHY555A,Saurabh Mani Tripathi,7.67,1
+PHY555A,Soumik Mukhopadhyay,9.0,1
+PHY555A,Tarun Kanti Ghosh,9.33,1
+PHY556,Soumik Mukhopadhyay,9.12,1
+PHY556A,Saurabh Mani Tripathi,7.14,1
+PHY556A,Tarun Kanti Ghosh,8.57,1
+PHY557A,Anand Kumar Jha,7.4,1
+PHY557A,Pankaj Jain,8.0,1
+PHY558A,Pankaj Jain,10.0,1
+PHY558A,Rajeev Gupta,8.0,1
+PHY563A,Sudeep Bhattacharjee,9.33,1
+PHY565A,Soumik Mukhopadhyay,9.23,1
+PHY565A,Sudeep Bhattacharjee,8.29,1
+PHY566A,Rajeev Gupta,8.59,2
+PHY568A,Rajeev Gupta,8.59,2
+PHY597A,Krishnacharya,8.0,1
+PHY597A,Satyajit Banerjee,9.0,1
+PHY597A,Sivasurender Chandran,8.0,1
+PHY599A,Satyajit Banerjee,9.0,1
+PHY599A,Sivasurender Chandran,6.5,1
+PHY600A,Amit Kumar Agarwal,9.23,1
+PHY604A,Amit Dutta,8.31,1
+PHY606A,Manas Khan,6.25,1
+PHY607,Arijit Kundu,9.7,1
+PHY610,Asima Pradhan,8.0,1
+PHY612,Saikat Ghosh,8.19,1
+PHY613A,Amit Dutta,7.986666666666667,3
+PHY615A,Debashish Chowdhury,7.85,1
+PHY621,Koushik Pal,8.53,1
+PHY624,Soumik Mukhopadhyay,8.85,1
+PHY624,Zakir Hossain,8.36,1
+PHY624A,Chanchal Sow,8.61,1
+PHY625,Kaushik Bhattacharya,8.19,1
+PHY625A,Kaushik Bhattacharya,0.0,1
+PHY626,Debtosh Chowdhury,6.62,1
+PHY627A,Taraknath Mandal,6.73,1
+PHY632,Anjan Kumar Gupta,6.25,1
+PHY632A,Anjan Kumar Gupta,9.0,1
+PHY634A,Jayita Nayak,9.5,1
+PHY642A,Tarun Kanti Ghosh,8.21,1
+PHY652,Apratim Kaviraj,8.2,1
+PHY661A,Supratik Banerjee,8.83,1
+PHY665,Sagar Chakraborty,8.43,1
+PHY667A,Pankaj Jain,5.67,1
+PHY670,Sagar Chakraborty,9.0,1
+PHY670A,Sagar Chakraborty,6.83,1
+PHY677A,Venkata Jayasurya Yallapragada,8.735,2
+PHY681,Arjun Bagchi,8.33,1
+PHY681A,Arjun Bagchi,7.41,1
+PHY682,Sudeep Bhattacharjee,7.58,1
+PHY685,Arjun Bagchi,7.56,1
+PHY690B,Sanmay Ganguly,8.6,1
+PHY690C,Gopal Hazra,7.62,1
+PHY690G,Anand Kumar Jha,7.09,3
+PHY690I,Debtosh Chowdhury,7.07,1
+PHY690J,Joydeep Chakrabortty,8.915,2
+PHY690L,Harshawardhan Wanare,7.0,1
+PHY690M,Tapobrata Sarkar,8.89,1
+PHY690N,Avinash Singh,8.549999999999999,3
+PHY690Q,Amit Dutta,8.46,2
+PHY690S,Harshawardhan Wanare,4.67,1
+PHY690S,Satyajit Banerjee,8.13,1
+PHY696,Arijit Kundu,9.64,1
+PHY697A,Satyajit Banerjee,8.89,1
+PHY697A,Sivasurender Chandran,9.36,1
+PHY698,Arijit Kundu,9.0,1
+PHY698A,Satyajit Banerjee,9.0,1
+PHY699A,Satyajit Banerjee,8.89,1
+PHY699A,Sivasurender Chandran,9.09,1
+PHY701,Amit Kumar Agarwal,,1
+PHY781,Arjun Bagchi,8.07,1
+PHY781A,Joydeep Chakrabortty,8.85,1
+PSO201A,Anjan Kumar Gupta,5.79,1
+PSY151,Shikha Dixit,7.33,1
+PSY151A,Shikha Dixit,8.77,1
+PSY451A,Braj Bhushan,7.93,3
+PSY468A,Shikha Dixit,8.205,2
+PSY470,Kumar Ravi Priya,4.34,1
+PSY470A,Kumar Ravi Priya,5.46,1
+PSY774A,Kumar Ravi Priya,9.0,1
+PSY775A,Braj Bhushan,10.0,1
+PSY776A,Braj Bhushan,10.0,2
+PSY777,Shikha Dixit,8.5,1
+PSY794,Kumar Ravi Priya,8.67,1
+PSY798,Shikha Dixit,9.0,1
+PSY888,Kumar Ravi Priya,9.6,1
+SEE211,Ashish Garg,7.695,2
+SEE601,Laltu Chandra,6.925000000000001,2
+SEE601A,Laltu Chandra,4.0,1
+SEE602,Sudarshan Narayanan,6.265000000000001,2
+SEE602A,Ashish Garg,7.41,1
+SEE602A,Sudarshan Narayanan,5.08,1
+SEE603,Prabodh Bajpai,7.925,2
+SEE603A,Prabodh Bajpai,8.43,1
+SEE604,Aakash Chand Rai,6.86,1
+SEE605,Sudarshan Narayanan,8.96,1
+SEE605A,Kanwar Singh Nalwa,9.08,1
+SEE605A,Laltu Chandra,8.4,1
+SEE606,Kanwar Singh Nalwa,8.2,1
+SEE606A,Kanwar Singh Nalwa,7.18,1
+SEE608,Deepika Swami,8.059999999999999,2
+SEE608A,Deepika Swami,8.95,2
+SEE611,Laltu Chandra,8.38,1
+SEE612,Kanwar Singh Nalwa,7.0,1
+SEE612A,Kanwar Singh Nalwa,7.625,2
+SEE613,Rajeev Jindal,6.47,1
+SEE613A,Ashish Garg,7.0,1
+SEE616,Prabodh Bajpai,7.83,1
+SEE617A,Deepika Swami,8.11,1
+SEE618A,Aakash Chand Rai,7.77,2
+SEE622,Rajeev Jindal,6.7,1
+SEE623,Amarendra Edpuganti,6.33,1
+SEE623A,Amarendra Edpuganti,9.0,1
+SEE624,Aakash Chand Rai,6.82,2
+SEE624A,Aakash Chand Rai,8.29,1
+SEE625,Ashish Garg,7.53,1
+SEE627,Amarendra Edpuganti,8.105,2
+SEE628,Rajeev Jindal,7.41,1
+SEE691,Rajeev Jindal,,1
+SEE691A,Rajeev Jindal,,1
+SEE888,Amarendra Edpuganti,7.95,1
+TA111,Prishati Raychowdhury,7.37,1
+TA111,Syam Nair,6.64,1
+TA201A,Rajiv Shekhar,7.86,1
+TA201A,Shashank Shekhar,7.5,1
+TA201A,Sudhanshu Shekhar Singh,7.53,1
+TA201P,Niraj Mohan Chawake,5.67,1
+TA211,Kantesh Balani,8.63,1
+TA211,Shashank Shekhar,8.63,1
+TA211,Sudhanshu Shekhar Singh,8.33,1
+TA212,Niraj Sinha,8.36,1
+TA212,Shantanu Bhattacharya,9.79,1
+TA212,Virkeshwar Kumar,9.23,1
