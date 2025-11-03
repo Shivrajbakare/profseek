@@ -11,7 +11,10 @@ peft
 accelerate
 torch>=2.0
 tqdm
+seaborn
+matplotlib
 
+python-dotenv
 # optional for serving
 fastapi
 uvicorn
